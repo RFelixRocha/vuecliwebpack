@@ -2,7 +2,7 @@
   "name": "vuecliwebpack-simple",
   "description": "Projeto para aulas de vuejs",
   "version": "1.0.0",
-  "author": "Raimundo Felix",
+  "author": "Raimundo Felix da Rocha",
   "license": "MIT",
   "private": true,
   "scripts": {
